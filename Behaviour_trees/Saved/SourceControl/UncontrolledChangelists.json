@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/AIController/AIC_Simple.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blackboards/BB_Dummy.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_Dummy.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blueprints/BP_SimpleNPC.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_SimpleNPC.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blackboards/BB_SimpleNPC.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/A7/4X253R2P8BAWJFWBAH6RGK.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9Y/IQOB2KA1JIIS3ELECPZARD.uasset",
+				"C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH.uasset"
+			]
+		}
+	]
+}

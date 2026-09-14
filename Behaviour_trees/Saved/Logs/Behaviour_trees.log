@@ -2260,3 +2260,944 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.14-06.16.57:646][918]Cmd: SELECT NONE
 [2026.09.14-06.16.57:668][918]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2026.09.14-06.18.16:358][277]LogDerivedDataCache: C:/Users/Emiliano/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.636 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15868 files in 15872 folders with total size 321 MiB.
+[2026.09.14-06.29.13:789][309]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' with subface index 0 in Game thread.
+[2026.09.14-06.29.13:789][309]LogSlate: Display: Took 0.001929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K) on Game thread.
+[2026.09.14-06.29.13:789][309]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface 0 in Game thread.
+[2026.09.14-06.29.13:789][309]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.14-06.29.35:595][855]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.14-06.29.35:621][855]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.14-06.29.35:661][856]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.14-06.29.37:717][970]LogContentBrowser: Attempting asset rename: NewFolder -> IA
+[2026.09.14-06.29.37:720][970]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.14-06.30.27:784][305]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.14-06.30.27:805][305]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.14-06.30.27:859][307]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.14-06.30.33:654][606]LogContentBrowser: Attempting asset rename: NewFolder -> BehaiviorTrees
+[2026.09.14-06.30.33:656][606]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.14-06.30.58:087][924]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.14-06.30.58:105][924]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.14-06.30.58:134][925]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.14-06.31.12:710][698]LogContentBrowser: Attempting asset rename: NewFolder -> Blackboards
+[2026.09.14-06.31.12:711][698]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.14-06.31.27:934][367]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.14-06.32.16:062][248]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.14-06.35.18:527][ 55]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2026.09.14-06.35.18:548][ 55]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2026.09.14-06.35.18:629][ 57]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2026.09.14-06.35.24:854][362]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> BT_Dummy
+[2026.09.14-06.35.24:864][362]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2026.09.14-06.35.45:068][790]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2026.09.14-06.35.45:090][790]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2026.09.14-06.35.45:164][792]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2026.09.14-06.35.52:473][126]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BB_Dummy
+[2026.09.14-06.35.52:478][126]LogContentBrowser: End creating deferred item NewBlackboardData
+[2026.09.14-06.36.18:168][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.09.14-06.36.18:178][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.107
+[2026.09.14-06.36.18:181][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_Dummy] ([1] browsable assets)...
+[2026.09.14-06.36.18:182][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_Dummy]
+[2026.09.14-06.36.18:205][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/BehaiviorTrees/BT_Dummy_Auto1
+[2026.09.14-06.36.18:205][318]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_Dummy_Auto19540435E453D0712BA6116952EB35BF3.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/IA/BehaiviorTrees/BT_Dummy_Auto1.uasset'
+[2026.09.14-06.36.18:214][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/Blackboards/BB_Dummy] ([1] browsable assets)...
+[2026.09.14-06.36.18:214][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blackboards/BB_Dummy]
+[2026.09.14-06.36.18:218][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/Blackboards/BB_Dummy_Auto1
+[2026.09.14-06.36.18:218][318]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BB_Dummy_Auto192917BF64A7068D58511FD9749EDB6A2.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/IA/Blackboards/BB_Dummy_Auto1.uasset'
+[2026.09.14-06.36.18:220][318]LogFileHelpers: Auto-saving content packages took 0.042
+[2026.09.14-06.47.42:293][334]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.14-06.47.42:340][334]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.14-06.47.42:374][335]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.14-06.47.56:746][870]LogContentBrowser: Attempting asset rename: NewFolder -> AIController
+[2026.09.14-06.47.56:747][870]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.14-06.48.31:810][327]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2026.09.14-06.48.31:810][327]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/ToonProfile_16.svg'. File could not be found
+[2026.09.14-06.48.40:880][570]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.14-06.48.40:880][570]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.14-06.48.40:880][570]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.14-06.48.40:880][570]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.14-06.48.40:880][570]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.14-06.50.36:284][570]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.09.14-06.50.36:316][570]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.09.14-06.50.36:336][570]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.09.14-06.50.36:413][572]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.09.14-06.50.54:251][410]LogContentBrowser: Attempting asset rename: NewBlueprint -> AIC_Simple
+[2026.09.14-06.50.54:324][410]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.09.14-06.50.59:191][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.09.14-06.51.03:610][653]LogSlate: Window 'Save Content' being destroyed
+[2026.09.14-06.51.03:637][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-06.51.03:760][653]LogFileHelpers: Saving Package: /Game/IA/AIController/AIC_Simple
+[2026.09.14-06.51.03:761][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/AIController/AIC_Simple] ([2] browsable assets)...
+[2026.09.14-06.51.03:761][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/AIController/AIC_Simple]
+[2026.09.14-06.51.03:786][653]LogSavePackage: Moving output files for package: /Game/IA/AIController/AIC_Simple
+[2026.09.14-06.51.03:786][653]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/AIC_Simple1D323E71473A17ECCBA4298550D439A4.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/AIController/AIC_Simple.uasset'
+[2026.09.14-06.51.03:801][653]LogFileHelpers: Saving Package: /Game/IA/Blackboards/BB_Dummy
+[2026.09.14-06.51.03:803][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/Blackboards/BB_Dummy] ([1] browsable assets)...
+[2026.09.14-06.51.03:803][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blackboards/BB_Dummy]
+[2026.09.14-06.51.03:806][653]LogSavePackage: Moving output files for package: /Game/IA/Blackboards/BB_Dummy
+[2026.09.14-06.51.03:807][653]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BB_Dummy5C83E727443E724400363191C7B46D05.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blackboards/BB_Dummy.uasset'
+[2026.09.14-06.51.03:808][653]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/BT_Dummy
+[2026.09.14-06.51.03:808][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_Dummy] ([1] browsable assets)...
+[2026.09.14-06.51.03:808][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_Dummy]
+[2026.09.14-06.51.03:813][653]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/BT_Dummy
+[2026.09.14-06.51.03:813][653]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_DummyD8B562AB46D2EC2CA3BA19A80395EA79.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_Dummy.uasset'
+[2026.09.14-06.51.03:835][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.645 ms
+[2026.09.14-06.51.03:961][653]LogContentValidation: Enabled validators:
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-06.51.03:961][653]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-06.51.03:962][653]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.09.14-06.51.03:962][653]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-06.51.03:965][653]AssetCheck: /Game/IA/AIController/AIC_Simple Validating asset
+[2026.09.14-06.51.03:965][653]AssetCheck: /Game/IA/Blackboards/BB_Dummy Validating asset
+[2026.09.14-06.51.03:965][653]AssetCheck: /Game/IA/BehaiviorTrees/BT_Dummy Validating asset
+[2026.09.14-06.51.03:965][653]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-06.51.03:965][653]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-06.51.03:966][653]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-06.51.03:966][653]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-06.51.04:002][653]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.14-06.51.50:218][319]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/IA/AIController/AIC_Simple.AIC_Simple
+[2026.09.14-06.51.50:482][319]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.14-06.51.50:804][319]LogTexture: Display: Building texture TwoD: /PCG/BP_Elements/Resources/MaterialsAndRTs/DebugMaterials/debugFrame.debugFrame (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.09.14-06.51.50:811][319]LogTexture: Display: Building texture TwoD: /PCG/BP_Elements/Resources/Textures/T_BlackLinearFloat.T_BlackLinearFloat (RGBA16F, 8x8 x1x1x1) (Required Memory Estimate: 1.002514 MB), EncodeSpeed: Fast
+[2026.09.14-06.51.51:003][319]LogBlueprintEditor: Perf: 0.6 total seconds to load all 9 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2026.09.14-06.51.51:004][319]LogBlueprintEditor: Perf: 0.2 seconds loading: /PCG/BP_Elements/Resources/RenderTargetFunctions
+[2026.09.14-06.51.53:794][319]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.09.14-06.51.53:810][319]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.09.14-06.51.53:948][319]LogContentBrowser: Migrated 0 editor favorites to project favorites
+[2026.09.14-06.51.58:404][414]LogSlate: Window 'AIC_Simple' being destroyed
+[2026.09.14-06.51.58:420][414]LogSlate: Window 'AIC_Simple' being destroyed
+[2026.09.14-06.51.58:439][414]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.14-06.51.58:440][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-06.51.58:664][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2026.09.14-06.58.34:424][333]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.14-06.58.34:446][333]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.14-06.58.34:478][334]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.14-06.58.39:598][603]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.09.14-06.58.39:598][603]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.14-07.02.36:341][478]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Total job queries 2,429, among them cache hits 649 (26.72%), DDC hits 1,738 (71.55%), Duplicates 35 (1.44%)
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Tracking 1,745 distinct input hashes that result in 1,198 distinct outputs (68.65%)
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: RAM used: 13.32 MiB of 819.20 MiB budget. Usage: 1.63%
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Job execution time: average 6.45 s, max 8.32 s
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Job life time (pending + execution): average 6.51 s, max 8.35
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Shader code size: total 50.758 KiB, numShaders 7, average 7.251 KiB, min 4.578 KiB, max 11.672 KiB
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.39 s
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Average processing rate: 0.83 jobs/sec
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Total thread time: 13.425 s
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Total thread preprocess time: 119.968 s
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Percentage time preprocessing: 893.60%
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.200137
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 3.78 sec, max 3.78 sec, min 3.78 sec)
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 1.58 sec, max 1.59 sec, min 1.57 sec)
+[2026.09.14-07.02.36:342][478]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.55 sec, max 1.59 sec, min 1.52 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.15% of total time (compiled    1 times, average 3.78 sec, max 3.78 sec, min 3.78 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display:                                                 FLumenCardPS - 23.49% of total time (compiled    2 times, average 1.58 sec, max 1.59 sec, min 1.57 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.14% of total time (compiled    2 times, average 1.55 sec, max 1.59 sec, min 1.52 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.14% of total time (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.07% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: === Material stats ===
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Materials Translated:    159
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Material Translation Only: 0.12 s (43%)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.14-07.02.36:343][478]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.04.54:450][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2026.09.14-07.04.54:462][ 55]LogBlueprint: Compiling Blueprint '/Game/IA/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2026.09.14-07.05.06:679][546]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter -> BP_SimpleNPC
+[2026.09.14-07.05.06:953][546]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.09.14-07.05.07:104][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.05.07:104][546]LogFileHelpers: Saving Package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.05.07:105][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/IA/Blueprints/BP_SimpleNPC] ([2] browsable assets)...
+[2026.09.14-07.05.07:145][546]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC_C]
+[2026.09.14-07.05.07:159][546]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC]
+[2026.09.14-07.05.07:159][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blueprints/BP_SimpleNPC]
+[2026.09.14-07.05.07:178][546]LogSavePackage: Moving output files for package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.05.07:178][546]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BP_SimpleNPC45D388E845BD8ED77A58EBB133766A99.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blueprints/BP_SimpleNPC.uasset'
+[2026.09.14-07.05.07:194][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.665 ms (total: 287.311 ms)
+[2026.09.14-07.05.07:313][546]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2026.09.14-07.05.07:399][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.09.14-07.05.07:468][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.09.14-07.05.07:616][546]LogContentValidation: Enabled validators:
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.05.07:616][546]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.05.07:616][546]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.14-07.05.07:616][546]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.05.07:616][546]AssetCheck: /Game/IA/Blueprints/BP_SimpleNPC Validating asset
+[2026.09.14-07.05.07:616][546]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.05.07:616][546]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.05.07:694][546]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Total job queries 2,433, among them cache hits 649 (26.67%), DDC hits 1,738 (71.43%), Duplicates 35 (1.44%)
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Tracking 1,749 distinct input hashes that result in 1,200 distinct outputs (68.61%)
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: RAM used: 13.33 MiB of 819.20 MiB budget. Usage: 1.63%
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Average time worker was idle: 208.84 s
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Job execution time: average 5.03 s, max 8.32 s
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Job life time (pending + execution): average 5.10 s, max 8.35
+[2026.09.14-07.05.36:432][694]LogShaderCompilers: Display: Shader code size: total 79.418 KiB, numShaders 11, average 7.22 KiB, min 4.578 KiB, max 11.672 KiB
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.23 s
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Average processing rate: 0.98 jobs/sec
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Total thread time: 16.608 s
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Total thread preprocess time: 120.124 s
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Percentage time preprocessing: 723.30%
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Effective parallelization: 1.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.184850
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 3.78 sec, max 3.78 sec, min 3.78 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.42 sec, max 1.90 sec, min 0.95 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 1.31 sec, max 1.59 sec, min 0.77 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.29 sec, max 1.59 sec, min 0.76 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.10 sec, max 1.49 sec, min 0.71 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                                 FLumenCardPS - 23.60% of total time (compiled    3 times, average 1.31 sec, max 1.59 sec, min 0.77 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.30% of total time (compiled    3 times, average 1.29 sec, max 1.59 sec, min 0.76 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.75% of total time (compiled    1 times, average 3.78 sec, max 3.78 sec, min 3.78 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.14% of total time (compiled    2 times, average 1.42 sec, max 1.90 sec, min 0.95 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.21% of total time (compiled    2 times, average 1.10 sec, max 1.49 sec, min 0.71 sec)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: === Material stats ===
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Materials Translated:    159
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Material Translation Only: 0.12 s (43%)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.14-07.05.36:433][694]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.05.52:427][225]LogContentBrowser: Attempting asset rename: BT_Dummy -> BT_SimpleNPC
+[2026.09.14-07.05.52:616][225]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.09.14-07.05.52:654][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.05.52:654][225]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/BT_SimpleNPC
+[2026.09.14-07.05.52:654][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_SimpleNPC] ([1] browsable assets)...
+[2026.09.14-07.05.52:654][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_SimpleNPC]
+[2026.09.14-07.05.52:659][225]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/BT_SimpleNPC
+[2026.09.14-07.05.52:659][225]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_SimpleNPCCFE67257403DAE36670F5590C2562899.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_SimpleNPC.uasset'
+[2026.09.14-07.05.52:662][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.244 ms (total: 295.555 ms)
+[2026.09.14-07.05.52:778][225]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2026.09.14-07.05.52:862][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2026.09.14-07.05.52:934][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.14-07.05.53:081][225]LogContentValidation: Enabled validators:
+[2026.09.14-07.05.53:081][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.05.53:081][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.05.53:082][225]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.05.53:082][225]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.14-07.05.53:082][225]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.05.53:082][225]AssetCheck: /Game/IA/BehaiviorTrees/BT_SimpleNPC Validating asset
+[2026.09.14-07.05.53:082][225]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.05.53:082][225]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.05.53:083][225]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.05.53:083][225]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.05.53:131][225]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.14-07.06.07:846][855]LogContentBrowser: Attempting asset rename: BB_Dummy -> BB_SimpleNPC
+[2026.09.14-07.06.08:022][855]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.09.14-07.06.08:062][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.06.08:062][855]LogFileHelpers: Saving Package: /Game/IA/Blackboards/BB_SimpleNPC
+[2026.09.14-07.06.08:062][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/Blackboards/BB_SimpleNPC] ([1] browsable assets)...
+[2026.09.14-07.06.08:062][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blackboards/BB_SimpleNPC]
+[2026.09.14-07.06.08:065][855]LogSavePackage: Moving output files for package: /Game/IA/Blackboards/BB_SimpleNPC
+[2026.09.14-07.06.08:065][855]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BB_SimpleNPC3020281349337C38800C0695C3FA86D9.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blackboards/BB_SimpleNPC.uasset'
+[2026.09.14-07.06.08:068][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.245 ms (total: 301.801 ms)
+[2026.09.14-07.06.08:190][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.09.14-07.06.08:274][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2026.09.14-07.06.08:350][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.09.14-07.06.08:521][855]LogContentValidation: Enabled validators:
+[2026.09.14-07.06.08:521][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.06.08:521][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.06.08:521][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.06.08:521][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.06.08:521][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.06.08:522][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.06.08:522][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.06.08:522][855]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.06.08:522][855]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.06.08:522][855]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.14-07.06.08:522][855]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.06.08:522][855]AssetCheck: /Game/IA/Blackboards/BB_SimpleNPC Validating asset
+[2026.09.14-07.06.08:522][855]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.06.08:522][855]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.06.08:579][855]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Total job queries 2,442, among them cache hits 651 (26.66%), DDC hits 1,738 (71.17%), Duplicates 35 (1.43%)
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Tracking 1,756 distinct input hashes that result in 1,205 distinct outputs (68.62%)
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: RAM used: 13.36 MiB of 819.20 MiB budget. Usage: 1.63%
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Shaders Compiled: 18
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Average time worker was idle: 211.65 s
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.10 s
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Job execution time: average 4.95 s, max 8.32 s
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Job life time (pending + execution): average 5.03 s, max 8.35
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Shader code size: total 123.918 KiB, numShaders 18, average 6.884 KiB, min 2.98 KiB, max 11.672 KiB
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.50 s
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Average processing rate: 1.09 jobs/sec
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Total thread time: 27.802 s
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Total thread preprocess time: 120.429 s
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Percentage time preprocessing: 433.17%
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Effective parallelization: 1.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.210683
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 3.78 sec, max 3.78 sec, min 3.78 sec)
+[2026.09.14-07.08.36:508][803]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.60 sec, max 1.90 sec, min 0.95 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 1.55 sec, max 1.62 sec, min 1.47 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 1.55 sec, max 1.68 sec, min 1.41 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.33 sec, max 1.59 sec, min 0.76 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.03% of total time (compiled    4 times, average 1.60 sec, max 1.90 sec, min 0.95 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.13% of total time (compiled    4 times, average 1.33 sec, max 1.59 sec, min 0.76 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.10% of total time (compiled    3 times, average 1.31 sec, max 1.59 sec, min 0.77 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.59% of total time (compiled    1 times, average 3.78 sec, max 3.78 sec, min 3.78 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.14% of total time (compiled    2 times, average 1.55 sec, max 1.62 sec, min 1.47 sec)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: === Material stats ===
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Materials Translated:    159
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Material Translation Only: 0.12 s (43%)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.14-07.08.36:509][803]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.10.58:013][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC
+[2026.09.14-07.10.58:381][297]LogContentBrowser: Migrated 0 editor favorites to project favorites
+[2026.09.14-07.10.58:945][297]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.09.14-07.10.58:946][297]LogSlate: Display: Took 0.001255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.09.14-07.10.58:946][297]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.09.14-07.10.58:946][297]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.14-07.11.02:146][393]LogSlate: Window 'BP_SimpleNPC' being destroyed
+[2026.09.14-07.12.35:044][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2026.09.14-07.12.37:223][775]LogSlate: Window 'Save Content' being destroyed
+[2026.09.14-07.12.37:244][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.12.37:361][775]LogFileHelpers: Saving Package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.12.37:361][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IA/Blueprints/BP_SimpleNPC] ([2] browsable assets)...
+[2026.09.14-07.12.37:505][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC]
+[2026.09.14-07.12.37:505][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blueprints/BP_SimpleNPC]
+[2026.09.14-07.12.37:522][775]LogSavePackage: Moving output files for package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.12.37:522][775]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BP_SimpleNPC8642039E42F5FC3C05D2F38C7DFBA403.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blueprints/BP_SimpleNPC.uasset'
+[2026.09.14-07.12.37:542][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.957 ms (total: 598.759 ms)
+[2026.09.14-07.12.37:641][775]LogContentValidation: Enabled validators:
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.12.37:641][775]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.12.37:642][775]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.12.37:642][775]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.14-07.12.37:642][775]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.12.37:642][775]AssetCheck: /Game/IA/Blueprints/BP_SimpleNPC Validating asset
+[2026.09.14-07.12.37:642][775]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.12.37:642][775]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.15.15:203][547]LogPSOHitching: Encountered 350 PSO creation hitches so far (119 graphics, 231 compute). 0 of them were precached.
+[2026.09.14-07.15.24:066][880]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.14-07.15.25:820][960]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.09.14-07.15.25:820][960]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.09.14-07.15.25:839][960]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.NavMeshBoundsVolume_UAID_B445067F488C790103_1766364183
+[2026.09.14-07.15.25:849][960]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.NavMeshBoundsVolume_UAID_B445067F488C790103_1766364183
+[2026.09.14-07.16.25:973][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.09.14-07.16.25:987][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/A7/4X253R2P8BAWJFWBAH6RGK_Auto2
+[2026.09.14-07.16.25:987][911]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/4X253R2P8BAWJFWBAH6RGK_Auto2D6D957C442FBD8D032ED38AA6F323AB9.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/A7/4X253R2P8BAWJFWBAH6RGK_Auto2.uasset'
+[2026.09.14-07.16.25:992][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9Y/IQOB2KA1JIIS3ELECPZARD_Auto2
+[2026.09.14-07.16.25:992][911]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/IQOB2KA1JIIS3ELECPZARD_Auto28C4AC1A74F491CDF7F559990E12E6A6C.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9Y/IQOB2KA1JIIS3ELECPZARD_Auto2.uasset'
+[2026.09.14-07.16.25:995][911]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.116
+[2026.09.14-07.16.25:995][911]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Total job queries 2,454, among them cache hits 654 (26.65%), DDC hits 1,738 (70.82%), Duplicates 35 (1.43%)
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Tracking 1,765 distinct input hashes that result in 1,212 distinct outputs (68.67%)
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: RAM used: 13.41 MiB of 819.20 MiB budget. Usage: 1.64%
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Shaders Compiled: 27
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Average time worker was idle: 258.66 s
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Job execution time: average 4.15 s, max 8.32 s
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Job life time (pending + execution): average 4.23 s, max 8.35
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Shader code size: total 204.641 KiB, numShaders 27, average 7.579 KiB, min 2.98 KiB, max 12.488 KiB
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.87 s
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.14-07.17.36:654][526]LogShaderCompilers: Display: Average processing rate: 1.04 jobs/sec
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: Total thread time: 38.677 s
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: Total thread preprocess time: 120.738 s
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: Percentage time preprocessing: 312.17%
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.186906
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 2.74 sec, max 3.78 sec, min 2.10 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 1.55 sec, max 1.62 sec, min 1.47 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 1.55 sec, max 1.68 sec, min 1.41 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.43 sec, max 1.90 sec, min 0.95 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 1.18 sec, max 1.59 sec, min 0.76 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.22% of total time (compiled    6 times, average 1.43 sec, max 1.90 sec, min 0.95 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.26% of total time (compiled    3 times, average 2.74 sec, max 3.78 sec, min 2.10 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.24% of total time (compiled    6 times, average 1.18 sec, max 1.59 sec, min 0.76 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.40% of total time (compiled    5 times, average 1.11 sec, max 1.59 sec, min 0.63 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.01% of total time (compiled    2 times, average 1.55 sec, max 1.62 sec, min 1.47 sec)
+[2026.09.14-07.17.36:655][526]LogShaderCompilers: Display: === Material stats ===
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: Materials Translated:    159
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: Material Translation Only: 0.12 s (43%)
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.14-07.17.36:656][526]LogShaderCompilers: Display: ================================================
+[2026.09.14-07.18.06:840][891]LogBlueprint: Compiling Blueprint '/Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC'
+[2026.09.14-07.18.07:195][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.09.14-07.18.14:338][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2026.09.14-07.18.15:643][218]LogSlate: Window 'Save Content' being destroyed
+[2026.09.14-07.18.15:665][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.18.15:794][218]LogFileHelpers: Saving Package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/A7/4X253R2P8BAWJFWBAH6RGK
+[2026.09.14-07.18.15:804][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/A7/4X253R2P8BAWJFWBAH6RGK
+[2026.09.14-07.18.15:804][218]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/4X253R2P8BAWJFWBAH6RGK718C72DE4F361D05C8295EA9934E8381.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/A7/4X253R2P8BAWJFWBAH6RGK.uasset'
+[2026.09.14-07.18.15:814][218]LogFileHelpers: Saving Package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9Y/IQOB2KA1JIIS3ELECPZARD
+[2026.09.14-07.18.15:819][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9Y/IQOB2KA1JIIS3ELECPZARD
+[2026.09.14-07.18.15:819][218]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/IQOB2KA1JIIS3ELECPZARD3D70D8E347B406A11D48D693FEF6DA9D.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9Y/IQOB2KA1JIIS3ELECPZARD.uasset'
+[2026.09.14-07.18.15:846][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.759 ms (total: 780.518 ms)
+[2026.09.14-07.18.16:009][218]LogContentValidation: Enabled validators:
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.18.16:009][218]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.18.16:009][218]LogContentValidation: Display: Starting to validate 1 assets (2 associated objects such as actors)
+[2026.09.14-07.18.16:010][218]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.18.16:010][218]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.14-07.18.16:010][218]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.18.16:010][218]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.18.16:098][218]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.14-07.18.17:094][235]LogDerivedDataCache: C:/Users/Emiliano/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.371 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15910 files in 15926 folders with total size 322 MiB.
+[2026.09.14-07.26.26:816][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.09.14-07.26.26:819][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.057
+[2026.09.14-07.26.26:819][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IA/Blueprints/BP_SimpleNPC] ([2] browsable assets)...
+[2026.09.14-07.26.26:963][532]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC]
+[2026.09.14-07.26.26:963][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blueprints/BP_SimpleNPC]
+[2026.09.14-07.26.26:977][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/Blueprints/BP_SimpleNPC_Auto3
+[2026.09.14-07.26.26:977][532]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BP_SimpleNPC_Auto3EEA4EBF9499DAA009E61BD9FC1D9CD2B.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/IA/Blueprints/BP_SimpleNPC_Auto3.uasset'
+[2026.09.14-07.26.26:977][532]LogFileHelpers: Auto-saving content packages took 0.159
+[2026.09.14-07.27.42:339][972]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.14-07.27.48:134][219]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.09.14-07.27.49:411][286]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.14-07.27.53:845][533]LogBlueprint: Compiling Blueprint '/Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC'
+[2026.09.14-07.27.54:046][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2026.09.14-07.27.55:426][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.09.14-07.27.56:354][600]LogSlate: Window 'Save Content' being destroyed
+[2026.09.14-07.27.56:376][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.27.56:520][600]LogFileHelpers: Saving Package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.27.56:521][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IA/Blueprints/BP_SimpleNPC] ([2] browsable assets)...
+[2026.09.14-07.27.56:664][600]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC]
+[2026.09.14-07.27.56:664][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blueprints/BP_SimpleNPC]
+[2026.09.14-07.27.56:690][600]LogSavePackage: Moving output files for package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.27.56:691][600]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BP_SimpleNPC5177D5254322A57AF3A12AA49B7F7480.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blueprints/BP_SimpleNPC.uasset'
+[2026.09.14-07.27.56:715][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 338.831 ms (total: 1.11 sec)
+[2026.09.14-07.27.56:893][600]LogContentValidation: Enabled validators:
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.27.56:893][600]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.27.56:893][600]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.14-07.27.56:893][600]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.27.56:894][600]AssetCheck: /Game/IA/Blueprints/BP_SimpleNPC Validating asset
+[2026.09.14-07.27.56:894][600]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.27.56:894][600]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.28.37:329][104]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC_C
+[2026.09.14-07.28.37:329][104]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC_C
+[2026.09.14-07.28.37:346][104]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC as actor: BP_SimpleNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_SimpleNPC_C_0
+[2026.09.14-07.28.37:359][104]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC as actor: BP_SimpleNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_SimpleNPC_C_0
+[2026.09.14-07.28.38:573][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.09.14-07.28.38:621][140]LogEditorActor: Deleted 0 Actors (0.123 secs)
+[2026.09.14-07.28.38:635][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC_C
+[2026.09.14-07.28.38:635][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC_C
+[2026.09.14-07.28.38:653][140]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC as actor: BP_SimpleNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_SimpleNPC_C_UAID_B445067F488C7A0103_1485434361
+[2026.09.14-07.28.38:661][140]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC as actor: BP_SimpleNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_SimpleNPC_C_UAID_B445067F488C7A0103_1485434361
+[2026.09.14-07.28.43:264][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2026.09.14-07.28.44:263][268]LogSlate: Window 'Save Content' being destroyed
+[2026.09.14-07.28.44:306][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.28.44:391][268]LogFileHelpers: Saving Package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH
+[2026.09.14-07.28.44:400][268]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH
+[2026.09.14-07.28.44:400][268]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/DG6TJIF095YMJZTLD0LTCHBF293E1643579F3A1C4FDE909F2E0775.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH.uasset'
+[2026.09.14-07.28.44:421][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.865 ms (total: 1.23 sec)
+[2026.09.14-07.28.44:516][268]LogContentValidation: Enabled validators:
+[2026.09.14-07.28.44:516][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.28.44:516][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.28.44:518][268]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.28.44:518][268]LogContentValidation: Display: Starting to validate 1 assets (1 associated objects such as actors)
+[2026.09.14-07.28.44:518][268]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.28.44:518][268]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.14-07.28.44:518][268]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.28.44:518][268]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.28.44:584][268]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.14-07.28.46:119][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.14-07.28.46:145][331]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.14-07.28.46:145][331]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.09.14-07.28.46:156][331]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 10.741 ms (total: 14.663 ms)
+[2026.09.14-07.28.46:161][331]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.14-07.28.46:165][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.14-07.28.46:171][331]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.28.46:203][331]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.14-07.28.46:207][331]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.124 ms (total: 5.063 ms)
+[2026.09.14-07.28.46:208][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036337s)
+[2026.09.14-07.28.46:208][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.036767s)
+[2026.09.14-07.28.46:310][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2026.09.14-07.28.46:317][331]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.14-07.28.46:348][331]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.14-07.28.46:348][331]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.14-07.28.46:348][331]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.14-07.28.46:348][331]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.14-07.28.46:356][331]LogWorldPartition: Display: WorldPartition initialize took 7.472 ms (total: 217.667 ms)
+[2026.09.14-07.28.46:369][331]LogPlayLevel: PIE: World Init took: (0.051932s)
+[2026.09.14-07.28.46:370][331]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.09.14-07.28.46:373][331]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.14-07.28.46:374][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.14-07.28.46:374][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.14-07.28.46:374][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.14-07.28.46:374][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.14-07.28.46:374][331]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.14-07.28.46:375][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.14-07.28.46:375][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.14-07.28.46:375][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.14-07.28.46:376][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.14-07.28.46:376][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.14-07.28.46:376][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.14-07.28.46:378][331]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.14-07.28.46:411][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.28.46:413][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.28.46:416][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.28.46:418][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.28.46:420][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Auriculares (Oculus Virtual Audio Device)'
+[2026.09.14-07.28.46:422][331]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.28.46:432][331]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.14-07.28.46:432][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.14-07.28.46:432][331]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.14-07.28.46:435][331]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.14-07.28.46:442][331]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 2
+[2026.09.14-07.28.46:442][331]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream: Initializing mono downmix buffer
+[2026.09.14-07.28.46:442][331]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.14-07.28.46:442][331]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.14-07.28.46:442][331]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.09.14-07.28.46:446][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.14-07.28.46:446][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.14-07.28.46:447][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.14-07.28.46:449][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2026.09.14-07.28.46:453][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.09.14-07.28.46:458][331]LogInit: FAudioDevice initialized with ID 3.
+[2026.09.14-07.28.46:458][331]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.09.14-07.28.46:459][331]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.14-07.28.46:473][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.28.46:484][331]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.14-07.28.46:496][331]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.09.14-01.28.46
+[2026.09.14-07.28.46:505][331]LogWorld: Bringing up level for play took: 0.020212
+[2026.09.14-07.28.46:517][331]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.09.14-07.28.46:530][331]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.14-07.28.46:553][331]PIE: Server logged in
+[2026.09.14-07.28.46:556][331]PIE: Play in editor total start time 0.414 seconds.
+[2026.09.14-07.28.46:627][332]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.14-07.28.50:094][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.28.50:094][466]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.28.50:095][466]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.09.14-07.28.50:096][466]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.14-07.28.50:097][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.28.50:097][466]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.14-07.28.50:108][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.14-07.28.50:120][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.28.50:193][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.28.50:195][466]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.14-07.28.50:199][466]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=3, StreamState=4
+[2026.09.14-07.28.50:213][466]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.14-07.28.50:235][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.09.14-07.28.50:356][467]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.09.14-07.29.27:350][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.14-07.29.27:368][ 16]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.14-07.29.27:368][ 16]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.09.14-07.29.27:372][ 16]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 4.000 ms (total: 18.663 ms)
+[2026.09.14-07.29.27:396][ 16]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.14-07.29.27:396][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.14-07.29.27:396][ 16]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.29.27:422][ 16]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.14-07.29.27:426][ 16]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.636 ms (total: 8.699 ms)
+[2026.09.14-07.29.27:427][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030177s)
+[2026.09.14-07.29.27:427][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.030334s)
+[2026.09.14-07.29.27:511][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2026.09.14-07.29.27:516][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.14-07.29.27:520][ 16]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.14-07.29.27:520][ 16]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.14-07.29.27:520][ 16]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.14-07.29.27:520][ 16]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.14-07.29.27:523][ 16]LogWorldPartition: Display: WorldPartition initialize took 2.806 ms (total: 220.474 ms)
+[2026.09.14-07.29.27:523][ 16]LogPlayLevel: PIE: World Init took: (0.007662s)
+[2026.09.14-07.29.27:523][ 16]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.09.14-07.29.27:523][ 16]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.14-07.29.27:523][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.14-07.29.27:523][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.14-07.29.27:523][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.14-07.29.27:523][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.14-07.29.27:523][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.14-07.29.27:525][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.14-07.29.27:525][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.14-07.29.27:525][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.14-07.29.27:525][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.14-07.29.27:525][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.14-07.29.27:525][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.14-07.29.27:525][ 16]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.14-07.29.27:551][ 16]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.29.27:553][ 16]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.29.27:555][ 16]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.29.27:557][ 16]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.29.27:560][ 16]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Auriculares (Oculus Virtual Audio Device)'
+[2026.09.14-07.29.27:562][ 16]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.29.27:572][ 16]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.14-07.29.27:572][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.14-07.29.27:572][ 16]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.14-07.29.27:573][ 16]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.14-07.29.27:580][ 16]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 2
+[2026.09.14-07.29.27:580][ 16]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream: Initializing mono downmix buffer
+[2026.09.14-07.29.27:580][ 16]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.14-07.29.27:580][ 16]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.14-07.29.27:580][ 16]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.09.14-07.29.27:581][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.14-07.29.27:581][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.14-07.29.27:581][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.14-07.29.27:583][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2026.09.14-07.29.27:589][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.09.14-07.29.27:593][ 16]LogInit: FAudioDevice initialized with ID 4.
+[2026.09.14-07.29.27:594][ 16]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2026.09.14-07.29.27:594][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.09.14-07.29.27:595][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.29.27:600][ 16]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.14-07.29.27:610][ 16]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.09.14-01.29.27
+[2026.09.14-07.29.27:611][ 16]LogWorld: Bringing up level for play took: 0.010666
+[2026.09.14-07.29.27:617][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.09.14-07.29.27:619][ 16]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.14-07.29.27:626][ 16]PIE: Server logged in
+[2026.09.14-07.29.27:630][ 16]PIE: Play in editor total start time 0.262 seconds.
+[2026.09.14-07.29.27:680][ 16]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.14-07.29.57:878][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.29.57:878][199]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.29.57:878][199]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.09.14-07.29.57:879][199]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.14-07.29.57:881][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.29.57:881][199]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.14-07.29.57:889][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.14-07.29.57:903][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.29.57:980][199]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.09.14-07.29.57:982][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.09.14-07.29.57:983][199]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=4, StreamState=4
+[2026.09.14-07.29.57:999][199]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.14-07.29.58:004][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.29.58:013][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2026.09.14-07.29.58:239][200]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.09.14-07.37.02:028][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.09.14-07.37.02:035][489]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH_Auto4
+[2026.09.14-07.37.02:035][489]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/DG6TJIF095YMJZTLD0LTCH_Auto49D81400F47AD20A5C51C63997EDF5A8D.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH_Auto4.uasset'
+[2026.09.14-07.37.02:036][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.071
+[2026.09.14-07.37.02:036][489]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2026.09.14-07.44.48:185][373]LogBlueprint: Compiling Blueprint '/Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC'
+[2026.09.14-07.44.48:415][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2026.09.14-07.45.11:265][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2026.09.14-07.45.13:993][580]LogSlate: Window 'Save Content' being destroyed
+[2026.09.14-07.45.14:065][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.14-07.45.14:237][580]LogFileHelpers: Saving Package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.45.14:237][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IA/Blueprints/BP_SimpleNPC] ([2] browsable assets)...
+[2026.09.14-07.45.14:353][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA/Blueprints/BP_SimpleNPC.BP_SimpleNPC]
+[2026.09.14-07.45.14:353][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blueprints/BP_SimpleNPC]
+[2026.09.14-07.45.14:378][580]LogSavePackage: Moving output files for package: /Game/IA/Blueprints/BP_SimpleNPC
+[2026.09.14-07.45.14:379][580]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BP_SimpleNPC9646493248E6E4A3C8CABC8E98DDB28B.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blueprints/BP_SimpleNPC.uasset'
+[2026.09.14-07.45.14:381][580]LogFileHelpers: Saving Package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH
+[2026.09.14-07.45.14:387][580]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH
+[2026.09.14-07.45.14:387][580]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/DG6TJIF095YMJZTLD0LTCH11F56F2947B04E4A024A87B93E758B7A.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/U2/DG6TJIF095YMJZTLD0LTCH.uasset'
+[2026.09.14-07.45.14:411][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 345.416 ms (total: 1.58 sec)
+[2026.09.14-07.45.14:514][580]LogContentValidation: Enabled validators:
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.14-07.45.14:514][580]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.14-07.45.14:514][580]LogContentValidation: Display: Starting to validate 2 assets (2 associated objects such as actors)
+[2026.09.14-07.45.14:514][580]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.14-07.45.14:515][580]AssetCheck: /Game/IA/Blueprints/BP_SimpleNPC Validating asset
+[2026.09.14-07.45.14:515][580]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.14-07.45.14:515][580]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.14-07.45.14:515][580]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.14-07.45.14:516][580]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.14-07.45.15:050][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.14-07.45.15:073][591]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.14-07.45.15:075][591]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.09.14-07.45.15:078][591]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 3.844 ms (total: 22.508 ms)
+[2026.09.14-07.45.15:078][591]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.14-07.45.15:079][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.14-07.45.15:080][591]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.45.15:118][591]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.14-07.45.15:122][591]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.785 ms (total: 12.485 ms)
+[2026.09.14-07.45.15:122][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042175s)
+[2026.09.14-07.45.15:122][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.042307s)
+[2026.09.14-07.45.15:217][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2026.09.14-07.45.15:221][591]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.14-07.45.15:230][591]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.14-07.45.15:230][591]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.14-07.45.15:230][591]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.14-07.45.15:230][591]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.14-07.45.15:236][591]LogWorldPartition: Display: WorldPartition initialize took 6.143 ms (total: 226.618 ms)
+[2026.09.14-07.45.15:237][591]LogPlayLevel: PIE: World Init took: (0.015339s)
+[2026.09.14-07.45.15:237][591]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.09.14-07.45.15:237][591]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.14-07.45.15:237][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.14-07.45.15:237][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.14-07.45.15:237][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.14-07.45.15:238][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.14-07.45.15:238][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.14-07.45.15:238][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.14-07.45.15:238][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.14-07.45.15:238][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.14-07.45.15:238][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.14-07.45.15:238][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.14-07.45.15:238][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.14-07.45.15:238][591]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.14-07.45.15:269][591]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.45.15:272][591]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.45.15:275][591]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.45.15:277][591]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.45.15:281][591]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Auriculares (Oculus Virtual Audio Device)'
+[2026.09.14-07.45.15:284][591]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.45.15:299][591]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.14-07.45.15:300][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.14-07.45.15:300][591]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.14-07.45.15:304][591]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.14-07.45.15:314][591]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 2
+[2026.09.14-07.45.15:315][591]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream: Initializing mono downmix buffer
+[2026.09.14-07.45.15:315][591]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.14-07.45.15:315][591]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.14-07.45.15:315][591]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.09.14-07.45.15:315][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.14-07.45.15:315][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.14-07.45.15:315][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.14-07.45.15:319][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2026.09.14-07.45.15:326][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.09.14-07.45.15:333][591]LogInit: FAudioDevice initialized with ID 5.
+[2026.09.14-07.45.15:335][591]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2026.09.14-07.45.15:335][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.14-07.45.15:336][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.45.15:345][591]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.14-07.45.15:361][591]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.09.14-01.45.15
+[2026.09.14-07.45.15:363][591]LogWorld: Bringing up level for play took: 0.015378
+[2026.09.14-07.45.15:373][591]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.09.14-07.45.15:377][591]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.14-07.45.15:386][591]PIE: Server logged in
+[2026.09.14-07.45.15:392][591]PIE: Play in editor total start time 0.318 seconds.
+[2026.09.14-07.45.15:459][591]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.14-07.45.23:147][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.45.23:148][861]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.45.23:148][861]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.09.14-07.45.23:149][861]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.14-07.45.23:150][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.45.23:150][861]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.14-07.45.23:163][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.14-07.45.23:181][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.45.23:268][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.45.23:269][861]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.14-07.45.23:272][861]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=5, StreamState=4
+[2026.09.14-07.45.23:288][861]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.14-07.45.23:306][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2026.09.14-07.45.23:570][862]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.09.14-07.52.10:462][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.14-07.52.10:476][649]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.14-07.52.10:477][649]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.09.14-07.52.10:478][649]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.908 ms (total: 24.417 ms)
+[2026.09.14-07.52.10:478][649]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.14-07.52.10:478][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.14-07.52.10:478][649]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.52.10:497][649]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.14-07.52.10:499][649]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.050 ms (total: 14.535 ms)
+[2026.09.14-07.52.10:499][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020214s)
+[2026.09.14-07.52.10:500][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.020287s)
+[2026.09.14-07.52.10:566][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2026.09.14-07.52.10:569][649]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.14-07.52.10:573][649]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.14-07.52.10:573][649]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.14-07.52.10:573][649]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.14-07.52.10:573][649]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.14-07.52.10:576][649]LogWorldPartition: Display: WorldPartition initialize took 2.882 ms (total: 229.500 ms)
+[2026.09.14-07.52.10:577][649]LogPlayLevel: PIE: World Init took: (0.007455s)
+[2026.09.14-07.52.10:577][649]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.14-07.52.10:577][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.14-07.52.10:577][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.14-07.52.10:577][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.14-07.52.10:577][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.14-07.52.10:577][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.14-07.52.10:578][649]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.14-07.52.10:604][649]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.52.10:607][649]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.52.10:610][649]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.14-07.52.10:612][649]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.52.10:616][649]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Auriculares (Oculus Virtual Audio Device)'
+[2026.09.14-07.52.10:618][649]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.14-07.52.10:627][649]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.14-07.52.10:627][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.14-07.52.10:627][649]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.14-07.52.10:629][649]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.14-07.52.10:635][649]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 2
+[2026.09.14-07.52.10:635][649]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream: Initializing mono downmix buffer
+[2026.09.14-07.52.10:635][649]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.14-07.52.10:635][649]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.14-07.52.10:635][649]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.09.14-07.52.10:638][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.14-07.52.10:638][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.14-07.52.10:638][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.14-07.52.10:639][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2026.09.14-07.52.10:643][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.09.14-07.52.10:648][649]LogInit: FAudioDevice initialized with ID 6.
+[2026.09.14-07.52.10:648][649]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2026.09.14-07.52.10:648][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.14-07.52.10:649][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.52.10:654][649]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.14-07.52.10:663][649]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.09.14-01.52.10
+[2026.09.14-07.52.10:664][649]LogWorld: Bringing up level for play took: 0.008913
+[2026.09.14-07.52.10:670][649]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.09.14-07.52.10:671][649]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.14-07.52.10:676][649]PIE: Server logged in
+[2026.09.14-07.52.10:679][649]PIE: Play in editor total start time 0.203 seconds.
+[2026.09.14-07.52.10:743][649]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.14-07.52.17:527][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.52.17:527][ 36]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.14-07.52.17:527][ 36]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.09.14-07.52.17:528][ 36]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.14-07.52.17:529][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.52.17:530][ 36]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.14-07.52.17:543][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.14-07.52.17:556][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.14-07.52.17:617][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.14-07.52.17:618][ 36]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.14-07.52.17:620][ 36]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=6, StreamState=4
+[2026.09.14-07.52.17:636][ 36]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.14-07.52.17:649][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.09.14-07.52.17:816][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_12
