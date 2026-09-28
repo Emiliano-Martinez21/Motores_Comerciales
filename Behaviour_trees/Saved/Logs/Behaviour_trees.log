@@ -2735,3 +2735,423 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.28-02.14.49:217][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
 [2026.09.28-02.14.49:578][291]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/EditorPerProjectUserSettingsE71A0DDC41A382CE943E6CA93AA6C8AD.tmp' to 'C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
 [2026.09.28-02.14.50:080][321]LogFileManager: Error: Error moving file '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/EditorPerProjectUserSettingsE71A0DDC41A382CE943E6CA93AA6C8AD.tmp' to 'C:/Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2026.09.28-02.21.42:314][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.09.28-02.21.42:319][  5]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.056
+[2026.09.28-02.21.42:319][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.21.42:319][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.21.42:323][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination_Auto3
+[2026.09.28-02.21.42:323][  5]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestination_Auto3E0842C0542785D617E9C02ACBAB3EBA7.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination_Auto3.uasset'
+[2026.09.28-02.21.42:324][  5]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.09.28-02.21.46:018][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.28-02.21.47:029][117]LogSlate: Window 'Save Content' being destroyed
+[2026.09.28-02.21.47:040][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.21.47:131][117]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.21.47:131][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.21.47:131][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.21.47:135][117]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.21.47:136][117]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestinationF98FF6B64B3ED6C71DCE638DDD6FAF91.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.uasset'
+[2026.09.28-02.21.47:147][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.185 ms (total: 1.26 sec)
+[2026.09.28-02.21.47:243][117]LogContentValidation: Enabled validators:
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.21.47:243][117]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.21.47:243][117]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.21.47:243][117]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.21.47:243][117]AssetCheck: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination Validating asset
+[2026.09.28-02.21.47:243][117]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.21.47:243][117]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.21.47:243][117]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.21.47:243][117]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.21.47:244][117]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.21.47:244][117]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.21.47:244][117]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.21.47:244][117]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.21.47:244][117]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.21.47:244][117]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.21.47:866][154]LogBlueprint: Compiling Blueprint '/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.BTT_SetTrafficDestination'
+[2026.09.28-02.21.47:918][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.09.28-02.22.37:370][374]LogDerivedDataCache: C:/Users/Emiliano/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9534 files in 9793 folders with total size 195 MiB.
+[2026.09.28-02.28.49:156][262]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.28-02.28.49:157][262]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.28-02.28.49:157][262]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.28-02.28.49:157][262]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.28-02.28.49:157][262]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.28-02.30.39:942][704]LogBlueprint: Compiling Blueprint '/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.BTT_SetTrafficDestination'
+[2026.09.28-02.30.40:009][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.09.28-02.30.41:395][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2026.09.28-02.30.42:366][782]LogSlate: Window 'Save Content' being destroyed
+[2026.09.28-02.30.42:380][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.30.42:489][782]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.30.42:489][782]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.30.42:489][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.30.42:493][782]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.30.42:494][782]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestinationF80978F149D3F8B1DAA72383990BA9EC.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.uasset'
+[2026.09.28-02.30.42:507][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.147 ms (total: 1.38 sec)
+[2026.09.28-02.30.42:607][782]LogContentValidation: Enabled validators:
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.30.42:607][782]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.30.42:607][782]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.30.42:607][782]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.30.42:607][782]AssetCheck: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination Validating asset
+[2026.09.28-02.30.42:607][782]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.30.42:607][782]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.30.42:607][782]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.30.42:607][782]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.30.42:607][782]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.30.42:608][782]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.30.42:608][782]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.30.42:608][782]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.30.42:608][782]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.30.42:608][782]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.32.58:183][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.09.28-02.32.58:189][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.063
+[2026.09.28-02.32.58:190][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.32.58:190][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.32.58:198][709]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination_Auto4
+[2026.09.28-02.32.58:198][709]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestination_Auto47714E132471AA7A35E7196A798316FA7.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination_Auto4.uasset'
+[2026.09.28-02.32.58:199][709]LogFileHelpers: Auto-saving content packages took 0.009
+[2026.09.28-02.33.57:680][551]LogBlueprint: Compiling Blueprint '/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.BTT_SetTrafficDestination'
+[2026.09.28-02.33.57:744][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2026.09.28-02.33.58:690][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.09.28-02.33.59:298][602]LogSlate: Window 'Save Content' being destroyed
+[2026.09.28-02.33.59:311][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.33.59:405][602]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.33.59:405][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.33.59:405][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.33.59:410][602]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.33.59:410][602]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestination4A1AF74E49F33F4422262FB6B5B888DE.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.uasset'
+[2026.09.28-02.33.59:424][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.355 ms (total: 1.49 sec)
+[2026.09.28-02.33.59:546][602]LogContentValidation: Enabled validators:
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.33.59:546][602]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.33.59:546][602]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.33.59:546][602]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.33.59:546][602]AssetCheck: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination Validating asset
+[2026.09.28-02.33.59:546][602]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.33.59:546][602]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.40.42:829][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.09.28-02.40.43:810][387]LogSlate: Window 'Save Content' being destroyed
+[2026.09.28-02.40.43:828][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.40.43:911][387]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.40.43:911][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.40.43:911][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.40.43:917][387]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.40.43:917][387]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestinationFC8422F5401B24572B3CD786ECCFEFC0.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.uasset'
+[2026.09.28-02.40.43:918][387]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.40.43:918][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_TrafficNPC] ([1] browsable assets)...
+[2026.09.28-02.40.43:918][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_TrafficNPC]
+[2026.09.28-02.40.43:922][387]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.40.43:922][387]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_TrafficNPC684733EB4068FB9CC3D9A7924F239D2F.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_TrafficNPC.uasset'
+[2026.09.28-02.40.43:932][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.451 ms (total: 1.60 sec)
+[2026.09.28-02.40.44:022][387]LogContentValidation: Enabled validators:
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.40.44:022][387]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.40.44:022][387]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.09.28-02.40.44:022][387]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.40.44:022][387]AssetCheck: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination Validating asset
+[2026.09.28-02.40.44:022][387]AssetCheck: /Game/IA/BehaiviorTrees/BT_TrafficNPC Validating asset
+[2026.09.28-02.40.44:023][387]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.40.44:023][387]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.40.48:912][677]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.28-02.41.42:113][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.41.42:189][392]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.41.42:189][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_TrafficNPC] ([1] browsable assets)...
+[2026.09.28-02.41.42:189][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_TrafficNPC]
+[2026.09.28-02.41.42:193][392]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.41.42:193][392]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_TrafficNPCAF12ECD047AE9897D0B5488995CB9549.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_TrafficNPC.uasset'
+[2026.09.28-02.41.42:205][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.759 ms (total: 1.69 sec)
+[2026.09.28-02.41.42:296][392]LogContentValidation: Enabled validators:
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.41.42:296][392]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.41.42:296][392]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.41.42:296][392]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.41.42:297][392]AssetCheck: /Game/IA/BehaiviorTrees/BT_TrafficNPC Validating asset
+[2026.09.28-02.41.42:297][392]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.41.42:297][392]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.43.13:477][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.43.13:556][ 48]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.43.13:556][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_TrafficNPC] ([1] browsable assets)...
+[2026.09.28-02.43.13:556][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_TrafficNPC]
+[2026.09.28-02.43.13:558][ 48]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.43.13:559][ 48]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_TrafficNPC23310FA040BC734895F4FFB82B739FEB.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_TrafficNPC.uasset'
+[2026.09.28-02.43.13:569][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.288 ms (total: 1.79 sec)
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: Enabled validators:
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.43.13:668][ 48]AssetCheck: /Game/IA/BehaiviorTrees/BT_TrafficNPC Validating asset
+[2026.09.28-02.43.13:668][ 48]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.43.13:668][ 48]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.45.19:341][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2026.09.28-02.45.19:347][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.075
+[2026.09.28-02.45.19:347][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_TrafficNPC] ([1] browsable assets)...
+[2026.09.28-02.45.19:347][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_TrafficNPC]
+[2026.09.28-02.45.19:351][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/BehaiviorTrees/BT_TrafficNPC_Auto5
+[2026.09.28-02.45.19:351][  6]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_TrafficNPC_Auto584F34A964563009C572E33BA279011EB.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/Autosaves/Game/IA/BehaiviorTrees/BT_TrafficNPC_Auto5.uasset'
+[2026.09.28-02.45.19:351][  6]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.09.28-02.45.36:220][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.09.28-02.45.37:047][169]LogSlate: Window 'Save Content' being destroyed
+[2026.09.28-02.45.37:062][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.45.37:191][169]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.45.37:191][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/BT_TrafficNPC] ([1] browsable assets)...
+[2026.09.28-02.45.37:191][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/BT_TrafficNPC]
+[2026.09.28-02.45.37:196][169]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/BT_TrafficNPC
+[2026.09.28-02.45.37:196][169]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BT_TrafficNPC6AC6AF774AE0F13A03359280357DAC04.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/BT_TrafficNPC.uasset'
+[2026.09.28-02.45.37:209][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.173 ms (total: 1.93 sec)
+[2026.09.28-02.45.37:329][169]LogContentValidation: Enabled validators:
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.45.37:329][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.45.37:331][169]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.45.37:331][169]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.45.37:331][169]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.45.37:331][169]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.45.37:331][169]AssetCheck: /Game/IA/BehaiviorTrees/BT_TrafficNPC Validating asset
+[2026.09.28-02.45.37:331][169]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.45.37:331][169]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.45.37:331][169]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.45.37:331][169]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.45.37:331][169]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.45.37:332][169]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.45.37:332][169]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.45.37:332][169]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.45.37:332][169]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.45.37:332][169]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.47.09:362][427]LogBlueprint: Compiling Blueprint '/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.BTT_SetTrafficDestination'
+[2026.09.28-02.47.09:463][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.09.28-02.47.19:554][ 30]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.09.28-02.47.19:554][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.28-02.47.19:651][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.09.28-02.47.21:002][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.47.21:089][111]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.47.21:089][111]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination] ([2] browsable assets)...
+[2026.09.28-02.47.21:089][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination]
+[2026.09.28-02.47.21:094][111]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination
+[2026.09.28-02.47.21:095][111]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTT_SetTrafficDestination84E6D79741501A1A6EEF389796AB34FE.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination.uasset'
+[2026.09.28-02.47.21:107][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.102 ms (total: 2.04 sec)
+[2026.09.28-02.47.21:201][111]LogContentValidation: Enabled validators:
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.47.21:201][111]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.47.21:201][111]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.28-02.47.21:201][111]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.47.21:201][111]AssetCheck: /Game/IA/BehaiviorTrees/Task/BTT_SetTrafficDestination Validating asset
+[2026.09.28-02.47.21:201][111]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.47.21:201][111]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.47.28:571][496]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC_C
+[2026.09.28-02.47.28:571][496]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC_C
+[2026.09.28-02.47.28:592][496]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC as actor: BP_TrafficNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TrafficNPC_C_0
+[2026.09.28-02.47.28:603][496]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC as actor: BP_TrafficNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TrafficNPC_C_0
+[2026.09.28-02.47.28:616][496]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.28-02.47.30:291][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.09.28-02.47.30:295][572]LogEditorActor: Deleted 0 Actors (0.068 secs)
+[2026.09.28-02.47.30:305][572]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC_C
+[2026.09.28-02.47.30:306][572]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC_C
+[2026.09.28-02.47.30:331][572]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC as actor: BP_TrafficNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TrafficNPC_C_UAID_B445067F488CD10503_1289939895
+[2026.09.28-02.47.30:336][572]LogActorFactory: Actor Factory spawned Blueprint /Game/IA/Blueprints/BP_TrafficNPC.BP_TrafficNPC as actor: BP_TrafficNPC_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TrafficNPC_C_UAID_B445067F488CD10503_1289939895
+[2026.09.28-02.47.32:381][646]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.28-02.47.32:402][646]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.28-02.47.32:402][646]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.09.28-02.47.32:416][646]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 13.504 ms (total: 22.724 ms)
+[2026.09.28-02.47.32:473][646]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.28-02.47.32:476][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.28-02.47.32:481][646]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.28-02.47.32:514][646]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.28-02.47.32:516][646]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.222 ms (total: 3.874 ms)
+[2026.09.28-02.47.32:517][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034400s)
+[2026.09.28-02.47.32:517][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.034965s)
+[2026.09.28-02.47.32:571][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.09.28-02.47.32:582][646]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.28-02.47.32:606][646]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.28-02.47.32:606][646]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.28-02.47.32:606][646]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.28-02.47.32:607][646]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.28-02.47.32:610][646]LogWorldPartition: Display: WorldPartition initialize took 4.215 ms (total: 226.318 ms)
+[2026.09.28-02.47.32:619][646]LogPlayLevel: PIE: World Init took: (0.037517s)
+[2026.09.28-02.47.32:621][646]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.09.28-02.47.32:623][646]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.28-02.47.32:623][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.28-02.47.32:623][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.28-02.47.32:623][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.28-02.47.32:623][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.28-02.47.32:623][646]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.28-02.47.32:624][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.28-02.47.32:624][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.28-02.47.32:624][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.28-02.47.32:626][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.28-02.47.32:626][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.28-02.47.32:626][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.28-02.47.32:627][646]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.28-02.47.32:647][646]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.28-02.47.32:649][646]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.28-02.47.32:650][646]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Altavoces (Realtek(R) Audio)'
+[2026.09.28-02.47.32:651][646]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.28-02.47.32:653][646]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Auriculares (Oculus Virtual Audio Device)'
+[2026.09.28-02.47.32:654][646]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.09.28-02.47.32:663][646]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.28-02.47.32:663][646]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.28-02.47.32:663][646]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.28-02.47.32:665][646]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.28-02.47.32:676][646]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 2
+[2026.09.28-02.47.32:676][646]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream: Initializing mono downmix buffer
+[2026.09.28-02.47.32:676][646]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.28-02.47.32:676][646]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.28-02.47.32:676][646]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.09.28-02.47.32:681][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.28-02.47.32:681][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.28-02.47.32:681][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.28-02.47.32:687][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2026.09.28-02.47.32:691][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.09.28-02.47.32:694][646]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2026.09.28-02.47.32:694][646]LogInit: FAudioDevice initialized with ID 3.
+[2026.09.28-02.47.32:694][646]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.09.28-02.47.32:695][646]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.28-02.47.32:709][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.28-02.47.32:717][646]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.28-02.47.32:731][646]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.09.27-20.47.32
+[2026.09.28-02.47.32:747][646]LogWorld: Bringing up level for play took: 0.028028
+[2026.09.28-02.47.32:760][646]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.09.28-02.47.32:771][646]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.28-02.47.32:789][646]PIE: Server logged in
+[2026.09.28-02.47.32:791][646]PIE: Play in editor total start time 0.394 seconds.
+[2026.09.28-02.47.32:846][646]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.28-02.47.43:429][262]LogBlueprintUserMessages: [ABP_Unarmed_C_0] Landed
+[2026.09.28-02.47.45:940][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.28-02.47.45:940][404]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.09.28-02.47.45:941][404]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.09.28-02.47.45:942][404]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.28-02.47.45:944][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.28-02.47.45:944][404]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.28-02.47.45:959][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.28-02.47.45:972][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.28-02.47.46:032][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.28-02.47.46:035][404]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.28-02.47.46:038][404]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=3, StreamState=4
+[2026.09.28-02.47.46:049][404]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.28-02.47.46:071][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.09.28-02.47.46:235][405]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.09.28-02.53.23:119][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2026.09.28-02.53.25:819][471]LogSlate: Window 'Save Content' being destroyed
+[2026.09.28-02.53.25:866][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.28-02.53.25:950][471]LogFileHelpers: Saving Package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NF/K1W3B6A08KIMCGTZR9S2TI
+[2026.09.28-02.53.25:966][471]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NF/K1W3B6A08KIMCGTZR9S2TI
+[2026.09.28-02.53.25:966][471]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/K1W3B6A08KIMCGTZR9S2TI6E154B6E47CFA70460D25FB72EB806C7.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NF/K1W3B6A08KIMCGTZR9S2TI.uasset'
+[2026.09.28-02.53.25:988][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.495 ms (total: 2.16 sec)
+[2026.09.28-02.53.26:084][471]LogContentValidation: Enabled validators:
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.28-02.53.26:085][471]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.28-02.53.26:085][471]LogContentValidation: Display: Starting to validate 1 assets (1 associated objects such as actors)
+[2026.09.28-02.53.26:085][471]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.28-02.53.26:086][471]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.09.28-02.53.26:086][471]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.28-02.53.26:086][471]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.28-02.53.26:159][471]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/SourceControl/UncontrolledChangelists.json
