@@ -6381,3 +6381,67 @@ Make sure 'BTTask_Patrol_C' has been compiled for  Get Patrol Key
 [2026.10.22-05.45.14:727][866]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.22-05.45.14:727][866]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.22-05.45.14:727][866]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-05.48.54:358][681]LogBlueprint: Compiling Blueprint '/Game/IA/BehaiviorTrees/Task/BTTask_Patrol.BTTask_Patrol'
+[2026.10.22-05.48.54:484][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2026.10.22-05.48.55:524][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-05.48.55:617][732]LogFileHelpers: Saving Package: /Game/IA/BehaiviorTrees/Task/BTTask_Patrol
+[2026.10.22-05.48.55:617][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/BehaiviorTrees/Task/BTTask_Patrol] ([2] browsable assets)...
+[2026.10.22-05.48.55:617][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BehaiviorTrees/Task/BTTask_Patrol]
+[2026.10.22-05.48.55:629][732]LogSavePackage: Moving output files for package: /Game/IA/BehaiviorTrees/Task/BTTask_Patrol
+[2026.10.22-05.48.55:630][732]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/BTTask_PatrolF0E45D6743612A3C4AE4D3B7EDAB462C.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/BehaiviorTrees/Task/BTTask_Patrol.uasset'
+[2026.10.22-05.48.55:643][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.748 ms (total: 6.42 sec)
+[2026.10.22-05.48.55:750][732]LogContentValidation: Enabled validators:
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-05.48.55:750][732]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-05.48.55:750][732]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-05.48.55:750][732]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-05.48.55:750][732]AssetCheck: /Game/IA/BehaiviorTrees/Task/BTTask_Patrol Validating asset
+[2026.10.22-05.48.55:750][732]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-05.48.55:750][732]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-05.48.57:801][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2026.10.22-05.48.59:016][846]LogSlate: Window 'Save Content' being destroyed
+[2026.10.22-05.48.59:037][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-05.48.59:153][846]LogFileHelpers: Saving Package: /Game/IA/Blueprints/E_PatrolPathActionResult
+[2026.10.22-05.48.59:153][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA/Blueprints/E_PatrolPathActionResult] ([1] browsable assets)...
+[2026.10.22-05.48.59:153][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/Blueprints/E_PatrolPathActionResult]
+[2026.10.22-05.48.59:160][846]LogSavePackage: Moving output files for package: /Game/IA/Blueprints/E_PatrolPathActionResult
+[2026.10.22-05.48.59:161][846]LogSavePackage: Moving '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Saved/E_PatrolPathActionResult1C25FD3A4B637971265A6B97E7CD9415.tmp' to '../../../../../../Users/Emiliano/OneDrive/Documentos/GitHub/Motores_Comerciales/Behaviour_trees/Content/IA/Blueprints/E_PatrolPathActionResult.uasset'
+[2026.10.22-05.48.59:183][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.028 ms (total: 6.56 sec)
+[2026.10.22-05.48.59:306][846]LogContentValidation: Enabled validators:
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-05.48.59:306][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-05.48.59:307][846]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-05.48.59:307][846]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-05.48.59:307][846]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-05.48.59:307][846]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-05.48.59:307][846]AssetCheck: /Game/IA/Blueprints/E_PatrolPathActionResult Validating asset
+[2026.10.22-05.48.59:307][846]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-05.48.59:307][846]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
